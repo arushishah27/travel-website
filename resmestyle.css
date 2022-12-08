@@ -1,0 +1,28 @@
+.home-menu{
+    margin-left: 400px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+
+.container-fluid{
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.adv-img{
+    width: 30%;
+    
+}
+
+/* class section styling */
+
+#travel{
+    padding: 10% 2%;
+}
+
+.card-img-top{
+    height: min-content;
+    width: min-content;
+}
