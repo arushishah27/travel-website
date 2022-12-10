@@ -1,3 +1,38 @@
+#intoduction{
+    background-color: #FEFCF3;
+    height: max-content;
+    
+}
+
+
+#destinations{
+    background-color: #F5EBE0;
+    padding: 3% 15%;
+}
+
+#logo-container{
+    padding: 3% 15%;
+    
+    text-align: center;
+    background-color: #F5EBE0 ;
+  
+}
+
+#travel{
+    padding: 10% 2%;
+    background-color: #F0DBDB;     
+}
+#extra-info{
+    padding: 3% 15%;
+    background-color: #F0DBDB ;
+}
+
+.card{
+    background-color: #F0DBDB;
+}
+
+
+
 .home-menu{
     margin-left: 400px;
 }
@@ -18,11 +53,13 @@
 
 /* class section styling */
 
-#travel{
-    padding: 10% 2%;
-}
+
 
 .card-img-top{
     height: min-content;
-    width: min-content;
+    width: min-content ;
 }
+
+
+
+
